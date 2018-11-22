@@ -1,5 +1,9 @@
 testing the branch v1 and merging into master
 changed in local folder-----1st time
+<<<<<<< HEAD
 
 
 testign local changes 2nd time
+=======
+online changes --second
+>>>>>>> adb1b9def0a884237578e63846bf6d5b9c68a8ec
